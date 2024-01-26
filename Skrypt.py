@@ -15,6 +15,6 @@ class Zamowienie:
 zamowienie = Zamowienie(['mydło', 'kawa', 'cukier'], 'Jan Kowalski')
 print(len(zamowienie))
 
-zamowienie = zamowienie + 'czekolada' + 'jogurt'
+zamowienie = zamowienie + 'czekolada' + 'ciasto'
 print(zamowienie.koszyk)
 print(len(zamowienie))
